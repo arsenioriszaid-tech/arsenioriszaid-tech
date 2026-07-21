@@ -94,7 +94,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arsenioriszaid-tech&theme=tokyonight&hide_border=true&background=0A0A0A&stroke=1a1a1a&fire=D97706&currStreakNum=D97706&currStreakLabel=D97706" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=arsenioriszaid-tech&theme=tokyonight&hide_border=true&background=0A0A0A&stroke=1a1a1a&fire=D97706&currStreakNum=D97706&currStreakLabel=D97706" alt="Streak Stats" />
 
 </div>
 
