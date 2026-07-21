@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="600" height="60">
+  <!-- Background -->
+  <rect width="600" height="60" fill="#0A0A0A" rx="8" stroke="#1a1a1a" stroke-width="0.5"/>
+  
+  <!-- Header text -->
+  <text x="30" y="22" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#D97706" letter-spacing="2">// CONNECT</text>
+  
+  <!-- Links row -->
+  <g font-family="'SF Mono', 'Fira Code', monospace" font-size="11">
+    <!-- Twitter/X -->
+    <text x="30" y="44" fill="#555555">
+      <tspan fill="#D97706">↗</tspan> <tspan fill="#666666">twitter.com/arsenio</tspan>
+    </text>
+    
+    <!-- LinkedIn -->
+    <text x="230" y="44" fill="#555555">
+      <tspan fill="#D97706">↗</tspan> <tspan fill="#666666">linkedin.com/arsenio</tspan>
+    </text>
+    
+    <!-- Website -->
+    <text x="430" y="44" fill="#555555">
+      <tspan fill="#D97706">↗</tspan> <tspan fill="#666666">arsenio.dev</tspan>
+    </text>
+  </g>
+  
+  <!-- Subtle border animation -->
+  <rect x="0" y="59" width="0" height="1" fill="#D97706" opacity="0.4">
+    <animate attributeName="width" values="0;600;600" dur="2s" fill="freeze"/>
+  </rect>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 36" width="800" height="36">
+  <!-- Background -->
+  <rect width="800" height="36" fill="#0A0A0A" opacity="0"/>
+  
+  <!-- Arrow indicator -->
+  <text x="0" y="24" font-family="'SF Mono', 'Fira Code', monospace" font-size="14" fill="#D97706">▸</text>
+  
+  <!-- Section text -->
+  <text x="22" y="24" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" fill="#9CA3AF" letter-spacing="1.5" text-transform="uppercase">ABOUT ME</text>
+  
+  <!-- Dashed line -->
+  <line x1="160" y1="18" x2="800" y2="18" stroke="#1a1a1a" stroke-width="1" stroke-dasharray="4,6"/>
+  
+  <!-- Accent dot at end -->
+  <circle cx="790" cy="18" r="2" fill="#D97706" opacity="0.5"/>
+</svg>
